@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Visualizacion de informacion y analitica visual"
 collection: teaching
-type: "Undergraduate course"
+type: "Magister en inteligencia artificial"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Pontificia Universidad Catolica de Chile, Departamento de Ciencias de la Computacion"
+date: "Junio - Julio 2022"
+location: "Santiago, Chile"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
