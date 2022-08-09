@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Bases de datos (Database Systems)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Pontificia Universidad Catolica de Chile, Departamento de Ciencias de la Computacion"
 date: 2015-01-01
-location: "City, Country"
+location: "Santiago, Chile"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+https://github.com/IIC2413/Syllabus-2022-1
