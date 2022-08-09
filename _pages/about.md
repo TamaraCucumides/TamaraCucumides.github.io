@@ -11,4 +11,6 @@ redirect_from:
 
 Acerca de mi
 ======
-Soy Tamara Cucumides ...
+My name is Tamara Cucumides and I'm currently a part-time teacher at Pontificia Universidad Catolica de Chile. 
+
+Hopefully I'll be working on this page anytime soon :) 
