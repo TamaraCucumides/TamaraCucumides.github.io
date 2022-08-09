@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, Pontificia Universidad Catolica de Chile, 2020
+* M.Sc. in Engineering Sciences. Pontificia Universidad Catolica de Chile, 2022
 
-Work experience
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Part-time teacher at Pontificia Universidad Catolica de Chile
+  * IIC2413 - Bases de Datos (Database Systems)
+  * INF3842 - Visualizacion de informacion y analitica visual (Information Visualization and visual analytics)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 - 2022: Teaching Assistant at Pontificia Universidad Catolica de Chile
+  * Discrete mathematics, Database Systems, Ethics for Engineers, Mathematical foundations of data science, Mathematical foundations of artificial intelligence, among others.
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C/C++
+* R
 
 Publications
 ======

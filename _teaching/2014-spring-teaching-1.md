@@ -8,6 +8,7 @@ date: "Junio - Julio 2022"
 location: "Santiago, Chile"
 ---
 
+**Syllabus del curso**: https://github.com/TamaraCucumides/InfoVisCourse
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
