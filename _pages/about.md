@@ -26,10 +26,12 @@ Publications
 
 Teaching
 ======
+
 As a lecturer
 * [Database Systems (Bases de datos) 2022-1](https://github.com/IIC2413/Syllabus-2022-1)
 * [Information visualization (Visualizacion de informacion y analitica visual) 2022-1](https://github.com/TamaraCucumides/InfoVisCourse)
 * [Database Systems (Bases de datos) 2022-2](https://github.com/IIC2413/Syllabus-2022-1)
+
 As a teaching assistant
 * too many to be listed: discrete mathematics, mathematical foundations of machine learning, database systems, ethics for engineers, capstone for mathematical engineers, calculus, linear algebra, etc.
 
