@@ -15,15 +15,17 @@ My name is Tamara Cucumides and I'm currently a PhD. student in the University o
 
 My research interest include graph learning, databases, and computational complexity
 
-Hopefully I'll be working on this page anytime soon :) 
-
-
 
 Publications
 ======
-* Tamara Cucumides and Juan Reutter. [Communication Cost of Joins over Federated Data](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICDT.2024.5). In 27th International Conference on Database Theory (ICDT 2024). Leibniz International Proceedings in Informatics (LIPIcs), Volume 290, pp. 5:1-5:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024)
-* Barceló, P., Cucumides, T., Geerts, F., Reutter, J., & Romero, M. (2023). [A neuro-symbolic framework for answering conjunctive queries](https://arxiv.org/abs/2310.04598). arXiv preprint arXiv:2310.04598.
-* Tamara Cucumides, Juan Reutter, and Domagoj Vrgoč. [Size Bounds and Algorithms for Conjunctive Regular Path Queries](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICDT.2023.13). In 26th International Conference on Database Theory (ICDT 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 255, pp. 13:1-13:17, Schloss Dagstuhl - Leibniz-Zentrum für Informatik (2023)
+* Tamara Cucumides, Floris Geerts. *From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs.* CoRR abs/2506.02243, 2025. [Preprint](https://arxiv.org/abs/2506.02243)
+
+* Tamara Cucumides, Daniel Daza, Pablo Barceló, Michael Cochez, Floris Geerts, Juan L. Reutter, Miguel Romero. *UnRavL: A Neuro-Symbolic Framework for Answering Graph Pattern Queries in Knowledge Graphs.* LoG 2024 (Learning on Graphs). [OpenReview](https://openreview.net/forum?id=mLwtkzMobz) ![Best Paper Honorable Mention](https://img.shields.io/badge/Best%20Paper-Honorable%20Mention-%23ff69b4)
+
+* Tamara Cucumides and Juan Reutter. *Communication Cost of Joins over Federated Data.* In *27th International Conference on Database Theory (ICDT 2024).* LIPIcs, Vol. 290, pp. 5:1–5:19, 2024. [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICDT.2024.5)
+
+* Tamara Cucumides, Juan Reutter, and Domagoj Vrgoč. *Size Bounds and Algorithms for Conjunctive Regular Path Queries.* In *26th International Conference on Database Theory (ICDT 2023).* LIPIcs, Vol. 255, pp. 13:1–13:17, 2023. [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICDT.2023.13)
+
 
 Teaching
 ======
