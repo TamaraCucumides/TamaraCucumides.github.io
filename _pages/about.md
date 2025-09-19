@@ -18,7 +18,6 @@ My research interest include graph learning, databases, and computational comple
 
 Publications
 ======
-# Publications
 
 - Tamara Cucumides and Floris Geerts. *From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs.* VLDB 2025 Workshop: Tabular Data Analysis (TaDA). [Paper](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/TaDA/TaDA25_5.pdf)
 
