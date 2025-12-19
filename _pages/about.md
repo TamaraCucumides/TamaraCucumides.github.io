@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-About me
-======
 My name is Tamara Cucumides and I'm currently a PhD. student in the University of Antwerp, under the guidance of [Floris Geerts](https://fgeerts.github.io/)
 
 My research interest include graph learning, databases, and computational complexity
