@@ -18,8 +18,9 @@ My research interest include graph learning, databases, and computational comple
 
 Publications
 ======
+- Tamara Cucumides and Floris Geerts. *The Missing Structure: When Graph Representations Outperform Tabular Models*. In EurIPS 2025 Workshop: AI for Tabular Data. [Paper](https://openreview.net/pdf?id=Ix2KTL6TWr)
 
-- Tamara Cucumides and Floris Geerts. *From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs.* VLDB 2025 Workshop: Tabular Data Analysis (TaDA). [Paper](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/TaDA/TaDA25_5.pdf)
+- Tamara Cucumides and Floris Geerts. *From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs.* In VLDB 2025 Workshop: Tabular Data Analysis (TaDA). [Paper](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/TaDA/TaDA25_5.pdf)
 
 - ![Best Paper Honorable Mention](https://img.shields.io/badge/Best%20Paper-Honorable%20Mention-%23ff69b4) Tamara Cucumides, Daniel Daza, Pablo Barceló, Michael Cochez, Floris Geerts, Juan L. Reutter, Miguel Romero. *UnRavL: A Neuro-Symbolic Framework for Answering Graph Pattern Queries in Knowledge Graphs.* LoG 2024 (Learning on Graphs). [OpenReview](https://openreview.net/forum?id=mLwtkzMobz)
 
@@ -32,9 +33,9 @@ Teaching
 ======
 
 As a lecturer
-* [Database Systems (Bases de datos) 2022-1](https://github.com/IIC2413/Syllabus-2022-1)
-* [Information visualization (Visualizacion de informacion y analitica visual) 2022-1](https://github.com/TamaraCucumides/InfoVisCourse)
-* [Database Systems (Bases de datos) 2022-2](https://github.com/IIC2413/Syllabus-2022-1)
+* PUC Chile - [Database Systems (Bases de datos) 2022](https://github.com/IIC2413/Syllabus-2022-1)
+* PUC Chile (Master in Artificial Intelligence) - ][Information visualization (Visualizacion de informacion y analitica visual) 2022](https://github.com/TamaraCucumides/InfoVisCourse)
+* PUC Chile (Master in Data Science) - Introduction to Data Science 
 
 As a teaching assistant
 * too many to be listed: discrete mathematics, mathematical foundations of machine learning, database systems, ethics for engineers, capstone for mathematical engineers, calculus, linear algebra, etc.
