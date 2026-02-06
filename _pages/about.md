@@ -16,6 +16,7 @@ My research interest include graph learning, databases, and computational comple
 
 Publications
 ======
+- Tamara Cucumides and Floris Geerts. *Grables: Tabular Learning Beyond Independent Rows*. arXiv preprint arXiv:2602.03945, 2026. [Paper](https://arxiv.org/abs/2602.03945)
 - Tamara Cucumides and Floris Geerts. *The Missing Structure: When Graph Representations Outperform Tabular Models*. In EurIPS 2025 Workshop: AI for Tabular Data. [Paper](https://openreview.net/pdf?id=Ix2KTL6TWr)
 
 - Tamara Cucumides and Floris Geerts. *From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs.* In VLDB 2025 Workshop: Tabular Data Analysis (TaDA). [Paper](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/TaDA/TaDA25_5.pdf)
