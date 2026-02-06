@@ -21,7 +21,7 @@ Publications
 
 - Tamara Cucumides and Floris Geerts. *From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs.* In VLDB 2025 Workshop: Tabular Data Analysis (TaDA). [Paper](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/TaDA/TaDA25_5.pdf)
 
-- ![Best Paper Honorable Mention](https://img.shields.io/badge/Best%20Paper-Honorable%20Mention-%23ff69b4) Tamara Cucumides, Daniel Daza, Pablo Barceló, Michael Cochez, Floris Geerts, Juan L. Reutter, Miguel Romero. *UnRavL: A Neuro-Symbolic Framework for Answering Graph Pattern Queries in Knowledge Graphs.* LoG 2024 (Learning on Graphs). [OpenReview](https://openreview.net/forum?id=mLwtkzMobz)
+- ![Best Paper Honorable Mention](https://img.shields.io/badge/Best%20Paper-Honorable%20Mention-%23ff69b4) Tamara Cucumides, Daniel Daza, Pablo Barceló, Michael Cochez, Floris Geerts, Juan L. Reutter, Miguel Romero. *UnRavL: A Neuro-Symbolic Framework for Answering Graph Pattern Queries in Knowledge Graphs.* LoG 2024 (Learning on Graphs). [Paper](https://openreview.net/forum?id=mLwtkzMobz)
 
 - Tamara Cucumides and Juan Reutter. *Communication Cost of Joins over Federated Data.* In *27th International Conference on Database Theory (ICDT 2024).* LIPIcs, Vol. 290, pp. 5:1–5:19, 2024. [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICDT.2024.5)
 
