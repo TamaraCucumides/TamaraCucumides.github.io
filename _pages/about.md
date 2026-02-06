@@ -33,7 +33,7 @@ Teaching
 
 As a lecturer
 * PUC Chile - [Database Systems (Bases de datos) 2022](https://github.com/IIC2413/Syllabus-2022-1)
-* PUC Chile (Master in Artificial Intelligence) - ][Information visualization (Visualizacion de informacion y analitica visual) 2022](https://github.com/TamaraCucumides/InfoVisCourse)
+* PUC Chile (Master in Artificial Intelligence) - [Information visualization (Visualizacion de informacion y analitica visual) 2022](https://github.com/TamaraCucumides/InfoVisCourse)
 * PUC Chile (Master in Data Science) - Introduction to Data Science 
 
 As a teaching assistant
