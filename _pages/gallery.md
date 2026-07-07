@@ -6,22 +6,26 @@ author_profile: true
 
 # --- Edit the lists below to add/remove items ---
 # For posters: `file` is the route to the PDF inside this repo (e.g. under /files/).
+# `thumb` is an optional preview image (e.g. under /images/posters/) — generate one by
+# rendering the PDF's first page to a .jpg/.png. If omitted, a generic icon is shown instead.
 # For talks: `youtube_id` is the part after "v=" in a YouTube URL, used both for the
 # link and to auto-generate a thumbnail preview (no need to upload one yourself).
 
 posters:
+  - title: "The Missing Structure"
+    venue: "DBDBD 2025"
+    date: "2025"
+    file: "/files/Poster-DBDBD2025.pdf"
+    thumb: "/images/posters/poster-dbdbd2025-thumb.jpg"
   - title: "Poster title placeholder"
     venue: "DBDBD 2025"
     date: "2025"
     file: "/files/Poster-DBDBD2025.pdf"
-  - title: "Poster title placeholder"
-    venue: "DBDBD 2025"
-    date: "2025"
-    file: "/files/Poster-DBDBD2025.pdf"
+    thumb: "/images/posters/poster-dbdbd2025-thumb.jpg"
 
 talks:
-  - title: "Talk title placeholder"
-    venue: "Event name placeholder"
+  - title: "Grables: de tablas a grafos"
+    venue: "Webinar Magíster en Ciencia de Datos UC"
     date: "2026"
     youtube_id: "kMBvSbxKVNU"
   - title: "Talk title placeholder"
@@ -78,7 +82,11 @@ Posters and talk recordings — click through for the full PDF or video.
 {% for poster in page.posters %}
   <div class="gallery-item">
     <a href="{{ base_path }}{{ poster.file }}" target="_blank" rel="noopener">
-      <div class="gallery-poster-icon">📄</div>
+      {% if poster.thumb %}
+        <img class="gallery-thumb" src="{{ base_path }}{{ poster.thumb }}" alt="{{ poster.title }} poster preview">
+      {% else %}
+        <div class="gallery-poster-icon">📄</div>
+      {% endif %}
       <div class="gallery-title">{{ poster.title }}</div>
     </a>
     <p class="gallery-meta">{{ poster.venue }}{% if poster.date %}, {{ poster.date }}{% endif %}</p>
