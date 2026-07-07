@@ -12,11 +12,16 @@ author_profile: true
 # link and to auto-generate a thumbnail preview (no need to upload one yourself).
 
 posters:
-  - title: "The Missing Structure"
+  - title: "Learning from Relational Structure"
     venue: "DBDBD 2025"
     date: "2025"
     file: "/files/Poster-DBDBD2025.pdf"
     thumb: "/images/posters/poster-dbdbd2025-thumb.jpg"
+  - title: "The Missing Structure"
+    venue: "AI for Tabular Data @ Eurips"
+    date: "2025"
+    file: "/files/poster-ai4TD.pdf"
+    thumb: "/images/posters/poster-ai4TD.jpg"
   - title: "Graph representations for RDL"
     venue: "ELLIS workshop RLGMSD"
     date: "2025"
