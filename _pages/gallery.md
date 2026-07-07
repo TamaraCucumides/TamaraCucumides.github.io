@@ -32,6 +32,10 @@ talks:
     venue: "Podcast Café + Data"
     date: "2026"
     youtube_id: "o4fLPy7WCkU"
+  - title: "Ciencia de datos en América Latina (en español)"
+    venue: "Podcast Café + Data"
+    date: "2026"
+    youtube_id: "o4fLPy7WCkU"
 ---
 
 <style>
