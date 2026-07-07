@@ -17,6 +17,11 @@ posters:
     date: "2025"
     file: "/files/Poster-DBDBD2025.pdf"
     thumb: "/images/posters/poster-dbdbd2025-thumb.jpg"
+  - title: "Graph representations for RDL"
+    venue: "ELLIS workshop RLGMSD"
+    date: "2025"
+    file: "/files/ellis_poster.pdf"
+    thumb: "/images/posters/ellis_poster_thumb.jpg"
   - title: "UnRavL"
     venue: "LoG conference (Aachen meet-up)"
     date: "2024"
@@ -35,7 +40,7 @@ talks:
   - title: "UnRavL @ LoG 2024 "
     venue: "Learning on Graphs (online)"
     date: "2024"
-    youtube_id: "Af-_ELCHsxg&t=13718s"
+    youtube_id: "Af-_ELCHsxg"
 ---
 
 <style>
