@@ -17,11 +17,11 @@ posters:
     date: "2025"
     file: "/files/Poster-DBDBD2025.pdf"
     thumb: "/images/posters/poster-dbdbd2025-thumb.jpg"
-  - title: "The Missing Structure"
-    venue: "DBDBD 2025"
-    date: "2025"
+  - title: "UnRavL"
+    venue: "LoG conference (Aachen meet-up)"
+    date: "2024"
     file: "/files/Poster-DBDBD2025.pdf"
-    thumb: "/images/posters/poster-dbdbd2025-thumb.jpg"
+    thumb: "/images/posters/unravl-log-thumb.jpg"
 
 talks:
   - title: "Grables: de tablas a grafos (en español)"
