@@ -32,10 +32,10 @@ talks:
     venue: "Podcast Café + Data"
     date: "2026"
     youtube_id: "o4fLPy7WCkU"
-  - title: "Ciencia de datos en América Latina (en español)"
-    venue: "Podcast Café + Data"
-    date: "2026"
-    youtube_id: "o4fLPy7WCkU"
+  - title: "UnRavL @ LoG 2024 "
+    venue: "Learning on Graphs (online)"
+    date: "2024"
+    youtube_id: "Af-_ELCHsxg&t=13718s"
 ---
 
 <style>
