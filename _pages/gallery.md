@@ -24,14 +24,14 @@ posters:
     thumb: "/images/posters/poster-dbdbd2025-thumb.jpg"
 
 talks:
-  - title: "Grables: de tablas a grafos"
+  - title: "Grables: de tablas a grafos (en español)"
     venue: "Webinar Magíster en Ciencia de Datos UC"
     date: "2026"
     youtube_id: "kMBvSbxKVNU"
-  - title: "Grables: de tablas a grafos"
-    venue: "Webinar Magíster en Ciencia de Datos UC"
+  - title: "Ciencia de datos en América Latina (en español)"
+    venue: "Podcast Café + Data"
     date: "2026"
-    youtube_id: "kMBvSbxKVNU"
+    youtube_id: "o4fLPy7WCkU&t"
 ---
 
 <style>
