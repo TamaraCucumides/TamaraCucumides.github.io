@@ -73,7 +73,7 @@ talks:
 
 {% include base_path %}
 
-Posters and talk recordings — click through for the full PDF or video.
+In this gallery you can see my posters and talk recordings — click through for the full PDF or video.
 
 ## 🖼️ Posters
 
