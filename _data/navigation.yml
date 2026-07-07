@@ -1,5 +1,5 @@
 # main links links
-#main:
+main:
 #  - title: "Publications"
 #    url: /publications/
 
@@ -20,3 +20,6 @@
     
 #  - title: "Guide"
 #    url: /markdown/
+
+  - title: "Gallery"
+    url: /gallery/
