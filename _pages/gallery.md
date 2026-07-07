@@ -20,7 +20,7 @@ posters:
   - title: "UnRavL"
     venue: "LoG conference (Aachen meet-up)"
     date: "2024"
-    file: "/files/Poster-DBDBD2025.pdf"
+    file: "/files/log_aachen.pdf"
     thumb: "/images/posters/unravl-log-thumb.jpg"
 
 talks:
