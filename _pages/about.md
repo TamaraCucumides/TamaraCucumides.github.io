@@ -12,6 +12,8 @@ redirect_from:
 I'm Tamara Cucumides, a PhD candidate in Computer Science at the University of Antwerp, advised by [Floris Geerts](https://fgeerts.github.io/). My thesis sits at the intersection of graph neural networks, query answering on knowledge graphs, and graph representations for tabular and relational learning.
  
 My research interests include graph learning, databases, and computational complexity — and, more broadly, understanding *when* and *how* structure helps predictive models learn from relational and tabular data.
+
+👀 Looking for visual summaries of my work? Explore my [gallery](https://tamaracucumides.github.io/gallery/) for video presentations and posters.
  
 📚 Publications
 ======
