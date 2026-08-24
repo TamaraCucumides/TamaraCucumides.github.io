@@ -20,7 +20,9 @@ My research interests include graph learning, databases, and computational compl
  
 <sub>📄 preprint · 🧩 workshop · 🎓 conference/journal</sub>
  
-- 📄 Simone Varriale, Tamara Cucumides, Floris Geerts, and Paolo Papotti. *Latent Bridges for Multi-Table Question Answering*. arXiv preprint arXiv:2606.28916, 2026. [Paper](https://arxiv.org/abs/2606.28916)
+- 📄 Tamara Cucumides and Floris Geerts. *AutoGrable: What Is a Good Graph for a Table?
+*. arXiv preprint arXiv:2608.11431, 2026. [Paper](https://arxiv.org/abs/2608.11431)
+- 🎓 Simone Varriale, Tamara Cucumides, Floris Geerts, and Paolo Papotti. *Latent Bridges for Multi-Table Question Answering*. arXiv preprint arXiv:2606.28916, 2026. [Paper](https://arxiv.org/abs/2606.28916). To appear in EMNLP 2026!!
 - 📄 Tamara Cucumides and Floris Geerts. *Grables: Tabular Learning Beyond Independent Rows*. arXiv preprint arXiv:2602.03945, 2026. [Paper](https://arxiv.org/abs/2602.03945)
 - 🎓 Tamara Cucumides, Juan Reutter, and Domagoj Vrgoč. *Output Bounds for Conjunctions of Path Queries.* Information Processing Letters, Vol. 193, 2026 (IPL). [Paper](https://doi.org/10.1016/j.ipl.2026.106628)
 - 🧩 Tamara Cucumides and Floris Geerts. *The Missing Structure: When Graph Representations Outperform Tabular Models*. In EurIPS 2025 Workshop: AI for Tabular Data. [Paper](https://openreview.net/pdf?id=Ix2KTL6TWr)
